@@ -100,8 +100,8 @@ p {
 }
 
 .tm-about-bg { background-image: url(../img/new-vision-02.jpg); }
-.tm-services-bg { background-image: url(../img/new-vision-03.jpg); }
-.tm-contact-bg { background-image: url(../img/new-vision-04.jpg); }
+.tm-services-bg { background-image: url(../img/NuestrosServicios.jpeg); }
+.tm-contact-bg { background-image: url(../img/contacto.jpg); }
 
 @media (max-width: 992px) {
     .tm-contact-bg { background-position: 80% top; }
